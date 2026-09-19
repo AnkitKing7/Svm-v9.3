@@ -187,7 +187,7 @@ For production deployments:
 
 SVM v9.3 provides a centralized web interface for managing your virtual machines.
 
-![SVM v9.3 Panel](https://i.imgur.com/0DmkSi4.png)
+![SVM v9.3 Panel](https://i.postimg.cc/brw90GDM/Gemini-Generated-Image-fy36k9fy36k9fy36.png)
 
 ---
 
