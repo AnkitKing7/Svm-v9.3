@@ -1,17 +1,3 @@
-# ███████╗██╗   ██╗
-
-# ██╔════╝██║   ██║
-
-# ███████╗██║   ██║
-
-# ╚════██║██║   ██║
-
-# ███████║╚██████╔╝
-
-# ╚══════╝ ╚═════╝
-
-#
-
 # SVM v9.3 — Virtual Machine Management System
 
 [![Version](https://img.shields.io/badge/version-v9.3-blue.svg)](https://github.com/AnkitKing7/Svm-v9.3)
@@ -27,7 +13,7 @@ It provides an intuitive web panel for creating, managing, monitoring, and contr
 
 ## 🖥️ SVM v9.3
 
-![SVM Panel](https://i.imgur.com/0DmkSi4.png)
+![SVM Panel](https://i.postimg.cc/brw90GDM/Gemini-Generated-Image-fy36k9fy36k9fy36.png)
 
 ### SV Logo
 
